@@ -152,16 +152,22 @@
     
     .resume .resume_left {
         background-color: grey;
+        width: 247px;
+        /* height: 300px; */
     }
     
     .resume .resume_left .Profile {
-        width: 300px;
+        width: 247px;
         height: 250px;
         text-align: center;
         padding-top: 30px;
         object-fit: fill;
         background-color: #616161;
         /* border: 2px solid green; */
+    }
+    
+    .title {
+        margin: 10px;
     }
     
     .title_about i {
@@ -187,6 +193,7 @@
     
     .title_about {
         margin-top: 20px;
+        width: 247px;
     }
     
     .title_about p1 {
@@ -204,9 +211,11 @@
         position: relative;
         font-weight: lighter;
         font-size: 25px;
+        padding-top: 5px;
     }
     
     .title p1 {
+        padding-top: 10px;
         font-family: 'Open Sans', sans-serif;
         position: relative;
         font-weight: 100%;
@@ -217,10 +226,11 @@
         font-size: 12px;
         padding-top: 10px;
         margin-bottom: 10px;
+        width: 247px;
     }
     
     .resume .resume_left .resume_content {
-        width: 300px;
+        width: 247px;
         /* height: 100%; */
         padding: 10px;
         background-color: #B0B0B0;
