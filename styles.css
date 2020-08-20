@@ -14,7 +14,6 @@
  }
  
  .contactContainer {
-     /* border: 2px solid red; */
      padding-left: 4px;
  }
  
@@ -23,19 +22,16 @@
      padding-top: 50px;
      display: flex;
      width: 100%;
-     /* border: 2px solid red; */
  }
  
  .containerTop {
      width: 4%;
      margin-top: -10px;
-     /* border: 5px solid red; */
  }
  
  .containerBottom {
      width: 98%;
      margin-right: 40px;
-     /* margin-top: 10px; */
  }
  
  .content {
@@ -45,7 +41,6 @@
  .about2 {
      color: black;
      text-transform: capitalize;
-     /* font-family: 'Fjalla One', sans-serif; */
  }
  
  h5 {
@@ -80,7 +75,6 @@
  
  .box2 {
      width: 100%;
-     /* border: 2px solid red; */
      margin-top: -7px;
  }
  
@@ -167,7 +161,6 @@
  .resume .resume_left {
      background-color: grey;
      width: 300px;
-     /* height: 300px; */
  }
  
  .resume .resume_left .Profile {
@@ -177,11 +170,6 @@
      padding-top: 30px;
      object-fit: fill;
      background-color: #616161;
-     /* border: 2px solid green; */
- }
- 
- .title {
-     /* margin: 10px; */
  }
  
  .title_about i {
@@ -202,7 +190,6 @@
      text-align: center;
      border-radius: 100%;
      background-color: #616161;
-     /* border: 2px solid red; */
  }
  
  .title_about {
@@ -245,7 +232,6 @@
  
  .resume .resume_left .resume_content {
      width: 260px;
-     /* height: 100%; */
      padding: 10px;
      background-color: #B0B0B0;
  }
@@ -279,7 +265,6 @@
  }
  
  .resume_content .resume_item .resume_social {
-     /* padding-top: -5px; */
      padding-right: 2px;
  }
  
@@ -382,11 +367,9 @@
  
  .resume .resume_right {
      width: 2000px;
-     /* background-color: red; */
  }
  
  h6 {
      color: #000000;
-     /* padding-left: 10px; */
      font-style: italic;
  }
